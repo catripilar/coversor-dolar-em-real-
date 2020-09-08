@@ -1,0 +1,7 @@
+#dolar
+
+nome=input('diga seu nome')
+deposito=input('dinheiro em dolar')
+resultado=float(deposito)*5.4
+print(f'ola sr {nome} você terá {round(resultado,2)} de reais em conta'.title())
+
